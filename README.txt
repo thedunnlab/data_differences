@@ -16,7 +16,7 @@ In this folder, you can find the following information regarding our manuscript.
 	- 02-newDNAm-origCovars-covTest - new DNAm data, standard covariates, covariance test
 	- 03-newDNAm-origCovars-sI - new DNAm data, standard covariates, selective inference
 	- 04-newDNAm-educFWL-sI - new DNAm data, revised covariates, FWL adjustment, selective inference
-
+	- runSLCMA - contains the source scripts to run the SLCMA
 
 3. Scripts to analyze the resulting data and generate the figures
 	- 1. DD_overall_differences_2021-09-21.Rmd - general differences between data versions
